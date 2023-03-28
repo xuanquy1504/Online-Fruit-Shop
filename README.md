@@ -3,7 +3,7 @@ E-Commerce fruit selling site using html, css and javascript
 
 **Live site -** [https://online-fruit-shop.netlify.app/](https://online-fruit-shop.netlify.app/)
 
-# Preview
+## Preview
 ![img01](https://user-images.githubusercontent.com/83011210/227763773-aed07b8e-a8c9-42dd-802b-1991c58ccb2b.png)
 ![img02](https://user-images.githubusercontent.com/83011210/227763794-eb2efe5e-e39e-4de0-a5b9-40b7c1836673.png)
 ![img03](https://user-images.githubusercontent.com/83011210/227763808-c53a9467-5b82-4e63-bb34-3bd89328f609.png)
